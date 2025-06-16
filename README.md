@@ -7,6 +7,7 @@
 ## Solana programming & security bootcamps
 - [Rektoff Rust + Solana security bootcamp](https://x.com/rektoff_xyz/status/1933579410059260098?t=CNPd81nLu-Mu5gTgLdjL-Q&s=31)
 - [60 days of Solana - by Rareskills](https://www.rareskills.io/solana-tutorial)
+- [Solana & Anchor Cohorts by Turbin3](https://turbin3.com/#education)
 
 ## Solana smart contract security resources
 - [Common Vulnerability Vectors in Solana Programs - by Ackee blockchain](https://www.youtube.com/watch?v=ZvON2fr9MX0&list=PLzUrW5H8-hDdU-pzHjZrgupi5Wis6zWNJ&index=6)
