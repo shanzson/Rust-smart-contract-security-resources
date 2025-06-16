@@ -9,6 +9,7 @@
 - [60 days of Solana - by Rareskills](https://www.rareskills.io/solana-tutorial)
 - [Solana & Anchor Cohorts - by Turbin3](https://turbin3.com/#education)
 - [Solana Auditor's Bootcamp Playlist (with advanced Anchor)](https://www.youtube.com/playlist?list=PLzUrW5H8-hDdU-pzHjZrgupi5Wis6zWNJ)
+- [Rust Bootcamp - by Rareskills](https://www.rareskills.io/rust-bootcamp)
 
 ## Solana smart contract security resources
 - [Common Vulnerability Vectors in Solana Programs - by Ackee blockchain](https://www.youtube.com/watch?v=ZvON2fr9MX0&list=PLzUrW5H8-hDdU-pzHjZrgupi5Wis6zWNJ&index=6)
