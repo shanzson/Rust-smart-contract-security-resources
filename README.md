@@ -8,7 +8,7 @@
 - [Rektoff Rust + Solana security bootcamp](https://x.com/rektoff_xyz/status/1933579410059260098?t=CNPd81nLu-Mu5gTgLdjL-Q&s=31)
 - [60 days of Solana - by Rareskills](https://www.rareskills.io/solana-tutorial)
 - [Solana & Anchor Cohorts - by Turbin3](https://turbin3.com/#education)
-- [Solana Developer Bootcamp]
+- [Solana Developer Bootcamp - by Solana](https://www.youtube.com/watch?v=amAq-WHAFs8)
 - [Solana Auditor's Bootcamp Playlist (with advanced Anchor)](https://www.youtube.com/playlist?list=PLzUrW5H8-hDdU-pzHjZrgupi5Wis6zWNJ)
 - [Rust Bootcamp - by Rareskills](https://www.rareskills.io/rust-bootcamp)
 
