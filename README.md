@@ -16,7 +16,7 @@
 - [From Ethereum to Solana: How Developer Assumptions Can Introduce Critical Security Vulnerabilities - by DeDaub](https://dedaub.com/blog/ethereum-developers-on-solana-common-mistakes/)
 
 ## Rust security resources
-- [Common vulns in rust smart contracts](https://medium.com/@joichiro.sai/common-vulnerabilities-in-rust-smart-contracts-dbd45927f3d7)
+- [Common vulns in Rust smart contracts](https://medium.com/@joichiro.sai/common-vulnerabilities-in-rust-smart-contracts-dbd45927f3d7)
 
 ## CTFs
 - [Solana CTFs](https://github.com/neodyme-labs/solana-ctf)
