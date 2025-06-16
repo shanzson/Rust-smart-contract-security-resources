@@ -24,5 +24,8 @@
 ## CTFs
 - [Solana CTFs](https://github.com/neodyme-labs/solana-ctf)
 
+## Rust post-mortems
+- [$200 Million Cetus hack on Sui Network](https://dedaub.com/blog/the-cetus-amm-200m-hack-how-a-flawed-overflow-check-led-to-catastrophic-loss/)
+
 ## Other Solana resources
 - [Problems with Solana data indexing](https://medium.com/@astralaneio/the-problems-with-solana-data-indexing-580ecb73c402)
