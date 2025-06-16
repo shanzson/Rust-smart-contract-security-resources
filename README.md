@@ -23,4 +23,6 @@
 
 ## CTFs
 - [Solana CTFs](https://github.com/neodyme-labs/solana-ctf)
-  
+
+## Other Solana resources
+- [Problems with Solana data indexing](https://medium.com/@astralaneio/the-problems-with-solana-data-indexing-580ecb73c402)
