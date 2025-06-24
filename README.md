@@ -3,6 +3,7 @@
 ## Learn Rust
 - [Learn Rust Playlist - by Smart Contract Programmer](https://youtu.be/wq56EAYZqGg?si=iOXToWuI8ROfKdUD)
 - [Hands-on Rust coding course online](https://www.smartcontract.engineer/challenges?course=rs)
+- [Rust reading list - by Rektoff Solana security bootcamp](https://docs.google.com/document/d/1wNvYVkskTCPRjZmbYG-acEevPfH8Mid-R_kxWJnphFc/mobilebasic)
 
 ## Solana programming & security bootcamps
 - [Rektoff Rust + Solana security bootcamp](https://x.com/rektoff_xyz/status/1933579410059260098?t=CNPd81nLu-Mu5gTgLdjL-Q&s=31)
