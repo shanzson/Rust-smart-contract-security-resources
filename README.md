@@ -2,6 +2,7 @@
 
 ## Learn Rust
 - [Learn Rust Playlist - by Smart Contract Programmer](https://youtu.be/wq56EAYZqGg?si=iOXToWuI8ROfKdUD)
+- [Smart Rust Notes](https://github.com/shanzson/Smart-Rust-Notes)
 - [Hands-on Rust coding course online](https://www.smartcontract.engineer/challenges?course=rs)
 - [Rust reading list - by Rektoff Solana security bootcamp](https://docs.google.com/document/d/1wNvYVkskTCPRjZmbYG-acEevPfH8Mid-R_kxWJnphFc/mobilebasic)
 
