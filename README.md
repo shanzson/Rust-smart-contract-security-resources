@@ -21,6 +21,7 @@
 - [From Ethereum to Solana: How Developer Assumptions Can Introduce Critical Security Vulnerabilities - by DeDaub](https://dedaub.com/blog/ethereum-developers-on-solana-common-mistakes/)
 - [Awesome Solana Security](https://github.com/0xMacro/awesome-solana-security)
 - [Solana Auditing and Security Resources (solsec) - by sannykim](https://github.com/sannykim/solsec)
+- [Solana Blockchain Attack Vectors - by ImmuneBytes](https://github.com/ImmuneBytes-Security-Audit/Blockchain-Attack-Vectors/tree/main/Solana%20Attack%20Vectors)
 
 ## Rust security resources
 - [Common vulns in Rust smart contracts](https://medium.com/@joichiro.sai/common-vulnerabilities-in-rust-smart-contracts-dbd45927f3d7)
