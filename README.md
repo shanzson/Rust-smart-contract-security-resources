@@ -34,3 +34,4 @@
 
 ## Other Solana resources
 - [Problems with Solana data indexing](https://medium.com/@astralaneio/the-problems-with-solana-data-indexing-580ecb73c402)
+- [Under the Hood of Solana Program Execution From Rust Code to SBF Bytecode](https://ubermensch.blog/under-the-hood-of-solana-program-execution-from-rust-code-to-sbf-bytecode)
