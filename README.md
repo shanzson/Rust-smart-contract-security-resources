@@ -25,6 +25,7 @@
 
 ## Rust security resources
 - [Common vulns in Rust smart contracts](https://medium.com/@joichiro.sai/common-vulnerabilities-in-rust-smart-contracts-dbd45927f3d7)
+- [Rust security auditor certification (RSAC) - by Hashlock](https://certification.hashlock.com/certificate/rust-security-auditor-certification-rsac/)
 
 ## CTFs
 - [Solana CTFs](https://github.com/neodyme-labs/solana-ctf)
