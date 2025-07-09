@@ -5,6 +5,7 @@
 - [Smart Rust Notes](https://github.com/shanzson/Smart-Rust-Notes)
 - [Hands-on Rust coding course online](https://www.smartcontract.engineer/challenges?course=rs)
 - [Rust reading list - by Rektoff Solana security bootcamp](https://docs.google.com/document/d/1wNvYVkskTCPRjZmbYG-acEevPfH8Mid-R_kxWJnphFc/mobilebasic)
+- [Rust Fundamentals course - by Cyfrin Updraft](https://updraft.cyfrin.io/courses/rust-programming-basics)
 
 ## Solana programming & security bootcamps
 - [Rektoff Rust + Solana security bootcamp](https://x.com/rektoff_xyz/status/1933579410059260098?t=CNPd81nLu-Mu5gTgLdjL-Q&s=31)
